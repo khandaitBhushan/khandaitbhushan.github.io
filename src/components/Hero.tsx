@@ -67,7 +67,7 @@ export function Hero() {
           >
             {/* VIEW / DOWNLOAD RESUME */}
             <a
-              href="dist/Bhushan_Khandait_Junior_Backend_Dev.pdf"
+              href="https://drive.google.com/file/d/1EYM1osNUX3crkBPS6S6YBUPSjn-WiHsU/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center gap-2 bg-[#1E90FF] text-white px-8 py-4 text-lg rounded-lg hover:bg-[#1873CC] transition-all duration-300 hover:shadow-lg hover:shadow-[#1E90FF]/50 hover:-translate-y-0.5"
